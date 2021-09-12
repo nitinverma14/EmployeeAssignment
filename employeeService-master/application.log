@@ -1,0 +1,149 @@
+2021-09-12 01:02:00.917  INFO 3945 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 3945 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:02:00.919  INFO 3945 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:02:03.064  INFO 3945 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:02:03.065  INFO 3945 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:02:03.143  INFO 3945 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:02:03.713  INFO 3945 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:02:04.227  INFO 3945 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:02:04.244  INFO 3945 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:02:04.276  INFO 3945 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:02:04.498  INFO 3945 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 4.121 seconds (JVM running for 5.664)
+2021-09-12 01:02:04.501  INFO 3945 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:02:15.605  INFO 3948 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 3948 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:02:15.606  INFO 3948 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:02:17.087  INFO 3948 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:02:17.088  INFO 3948 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:02:17.190  INFO 3948 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:02:17.680  INFO 3948 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:02:18.096  INFO 3948 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:02:18.121  INFO 3948 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:02:18.148  INFO 3948 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:02:18.363  INFO 3948 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.243 seconds (JVM running for 4.254)
+2021-09-12 01:02:18.365  INFO 3948 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:09:59.997  INFO 4024 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4024 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:10:00.000  INFO 4024 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:10:01.679  INFO 4024 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:10:01.680  INFO 4024 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:10:01.776  INFO 4024 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:10:02.406  INFO 4024 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:10:02.890  INFO 4024 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:10:02.909  INFO 4024 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:10:02.935  INFO 4024 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:10:03.145  INFO 4024 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.626 seconds (JVM running for 5.196)
+2021-09-12 01:10:03.147  INFO 4024 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:10:54.218  INFO 4034 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4034 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:10:54.221  INFO 4034 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:10:55.725  INFO 4034 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:10:55.726  INFO 4034 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:10:55.806  INFO 4034 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:10:56.328  INFO 4034 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:10:56.757  INFO 4034 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:10:56.776  INFO 4034 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:10:56.799  INFO 4034 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:10:57.001  INFO 4034 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.322 seconds (JVM running for 4.509)
+2021-09-12 01:10:57.004  INFO 4034 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:11:21.049  INFO 4034 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:11:21.084  WARN 4034 --- [http-nio-8080-exec-1] com.emp.config.JwtRequestFilter          : JWT Token does not begin with Bearer String
+2021-09-12 01:11:23.903  WARN 4034 --- [http-nio-8080-exec-2] com.emp.config.JwtRequestFilter          : JWT Token does not begin with Bearer String
+2021-09-12 01:11:26.393  WARN 4034 --- [http-nio-8080-exec-3] com.emp.config.JwtRequestFilter          : JWT Token does not begin with Bearer String
+2021-09-12 01:11:26.552  WARN 4034 --- [http-nio-8080-exec-4] com.emp.config.JwtRequestFilter          : JWT Token does not begin with Bearer String
+2021-09-12 01:11:47.661  WARN 4034 --- [http-nio-8080-exec-5] com.emp.config.JwtRequestFilter          : JWT Token does not begin with Bearer String
+2021-09-12 01:13:20.859  INFO 4060 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4060 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:13:20.861  INFO 4060 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:13:22.256  INFO 4060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:13:22.257  INFO 4060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:13:22.349  INFO 4060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:13:22.989  INFO 4060 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:13:23.489  INFO 4060 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:13:23.512  INFO 4060 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:13:23.550  INFO 4060 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:13:23.818  INFO 4060 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.425 seconds (JVM running for 4.656)
+2021-09-12 01:13:23.820  INFO 4060 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:13:27.867  INFO 4060 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:13:28.018 ERROR 4060 --- [http-nio-8080-exec-1] com.emp.config.GlobalExceptionHandler    : null
+2021-09-12 01:14:06.637  INFO 4068 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4068 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:14:06.640  INFO 4068 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:14:08.280  INFO 4068 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:14:08.280  INFO 4068 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:14:08.371  INFO 4068 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:14:08.836  INFO 4068 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:14:09.228  INFO 4068 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:14:09.249  INFO 4068 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:14:09.278  INFO 4068 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:14:09.476  INFO 4068 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.423 seconds (JVM running for 4.595)
+2021-09-12 01:14:09.478  INFO 4068 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:17:33.456  INFO 4123 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4123 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:17:33.466  INFO 4123 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:17:35.325  INFO 4123 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:17:35.326  INFO 4123 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:17:35.439  INFO 4123 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:17:36.031  INFO 4123 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:17:36.499  INFO 4123 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:17:36.517  INFO 4123 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:17:36.542  INFO 4123 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:17:36.758  INFO 4123 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.776 seconds (JVM running for 4.914)
+2021-09-12 01:17:36.760  INFO 4123 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:17:40.838  INFO 4123 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:17:41.022 ERROR 4123 --- [http-nio-8080-exec-1] com.emp.config.GlobalExceptionHandler    : 500 INTERNAL_SERVER_ERROR
+2021-09-12 01:18:19.879  INFO 4130 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4130 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:18:19.881  INFO 4130 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:18:21.743  INFO 4130 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:18:21.744  INFO 4130 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:18:21.824  INFO 4130 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:18:22.279  INFO 4130 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:18:22.664  INFO 4130 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:18:22.682  INFO 4130 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:18:22.705  INFO 4130 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:18:22.913  INFO 4130 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.472 seconds (JVM running for 4.704)
+2021-09-12 01:18:22.915  INFO 4130 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:18:27.214  INFO 4130 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:18:27.348 ERROR 4130 --- [http-nio-8080-exec-1] com.emp.config.GlobalExceptionHandler    : 500 INTERNAL_SERVER_ERROR
+2021-09-12 01:18:43.571  INFO 4135 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4135 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:18:43.573  INFO 4135 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:18:45.267  INFO 4135 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:18:45.268  INFO 4135 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:18:45.362  INFO 4135 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:18:45.930  INFO 4135 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:18:46.423  INFO 4135 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:18:46.443  INFO 4135 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:18:46.469  INFO 4135 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:18:46.716  INFO 4135 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.763 seconds (JVM running for 5.162)
+2021-09-12 01:18:46.720  INFO 4135 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:18:49.890  INFO 4135 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:21:33.415 ERROR 4135 --- [http-nio-8080-exec-1] com.emp.config.GlobalExceptionHandler    : 500 INTERNAL_SERVER_ERROR
+2021-09-12 01:21:37.409  INFO 4157 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4157 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:21:37.413  INFO 4157 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:21:39.523  INFO 4157 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:21:39.524  INFO 4157 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:21:39.627  INFO 4157 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:21:40.185  INFO 4157 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:21:40.781  INFO 4157 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:21:40.807  INFO 4157 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:21:40.841  INFO 4157 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:21:41.142  INFO 4157 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 4.559 seconds (JVM running for 6.391)
+2021-09-12 01:21:41.147  INFO 4157 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:21:47.468  INFO 4157 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:26:54.273  INFO 4220 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4220 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:26:54.275  INFO 4220 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:26:56.233  INFO 4220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:26:56.234  INFO 4220 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:26:56.390  INFO 4220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:26:57.005  INFO 4220 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:26:57.512  INFO 4220 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:26:57.536  INFO 4220 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:26:57.567  INFO 4220 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:26:57.817  INFO 4220 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 4.232 seconds (JVM running for 5.932)
+2021-09-12 01:26:57.821  INFO 4220 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
+2021-09-12 01:27:02.600  INFO 4220 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-12 01:27:08.915 ERROR 4220 --- [http-nio-8080-exec-1] com.emp.config.GlobalExceptionHandler    : employeeAPIFetch500 INTERNAL_SERVER_ERROR
+2021-09-12 01:29:39.618  INFO 4243 --- [main] com.emp.SpringBootJwtApplication         : Starting SpringBootJwtApplication on Nitins-MacBook-Air.local with PID 4243 (/Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master/target/classes started by nitinverma in /Users/nitinverma/Documents/workspace-spring-tool-suite-4-4.10.0.RELEASE/employeeService-master)
+2021-09-12 01:29:39.622  INFO 4243 --- [main] com.emp.SpringBootJwtApplication         : No active profile set, falling back to default profiles: default
+2021-09-12 01:29:41.002  INFO 4243 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-09-12 01:29:41.002  INFO 4243 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2021-09-12 01:29:41.089  INFO 4243 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-09-12 01:29:41.540  INFO 4243 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-09-12 01:29:41.934  INFO 4243 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2021-09-12 01:29:41.951  INFO 4243 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2021-09-12 01:29:41.975  INFO 4243 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2021-09-12 01:29:42.208  INFO 4243 --- [main] com.emp.SpringBootJwtApplication         : Started SpringBootJwtApplication in 3.006 seconds (JVM running for 4.142)
+2021-09-12 01:29:42.213  INFO 4243 --- [main] com.emp.SpringBootJwtApplication         : Starting my application with 1 args.
