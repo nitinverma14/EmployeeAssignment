@@ -1,6 +1,6 @@
 # Employee Management System
 
-TODO: Write a project description
+Employee Management System is used to manager record of the employee in the organization. It is used to view records of all the employees and also enable admin to add/modify/delete the records.
 
 ## Tech Stack
 
