@@ -36,7 +36,7 @@ admin
 ```sh
 password
 ```
-![alt text](https://github.com/nitinverma14/EmployeeAssignemnt/blob/main/LoginPage.png)
+![alt text](https://github.com/nitinverma14/EmployeeAssignment/blob/main/LoginPage.png)
 
 
 ## Swagger UI
@@ -49,17 +49,17 @@ http://localhost:8080/swagger-ui.html
 
 For API Testing, usee he following steps:
 1. Use "/authenticate" API for generation of Authentication token.\
-![alt text](https://github.com/nitinverma14/EmployeeAssignemnt/blob/main/GenerateToken.png)
+![alt text](https://github.com/nitinverma14/EmployeeAssignment/blob/main/GenerateToken.png)
 
 2. Add Authenticaton code as below:
      - Click on \
-    ![alt text](https://github.com/nitinverma14/EmployeeAssignemnt/blob/main/Authorize.png)
+    ![alt text](https://github.com/nitinverma14/EmployeeAssignment/blob/main/Authorize.png)
 
      - Add Bearer Token\
-    ![alt text](https://github.com/nitinverma14/EmployeeAssignemnt/blob/main/AddBearerToken.png)
+    ![alt text](https://github.com/nitinverma14/EmployeeAssignment/blob/main/AddBearerToken.png)
 
      - Run the following API to test the result\
-     ![alt text](https://github.com/nitinverma14/EmployeeAssignemnt/blob/main/OtherApi.png)
+     ![alt text](https://github.com/nitinverma14/EmployeeAssignment/blob/main/OtherApi.png)
 
 ## Unit Testing
 
